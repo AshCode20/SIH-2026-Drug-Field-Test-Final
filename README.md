@@ -14,6 +14,11 @@ A clean, professional Streamlit frontend for the SIH 2026 smart field-test analy
 - Added a clean result card, case-information card, location card and downloadable PDF report.
 - Preserved the supplied dataset-trained colour classifier models.
 
+# SIH 2026 Digital Companion for Field Drug Testing
+
+## 🔗 Live Demo
+
+[Open the Live SIH Application](https://sih-2026-drug-field-test-final-495d3fmjovcsqfh53aeecg.streamlit.app)
 ## Run in VS Code / PowerShell
 Use the Python 3.11 installation that has the project dependencies:
 
