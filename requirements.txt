@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+pillow
+opencv-python
+joblib
+scikit-learn
+streamlit-js-eval
+geopy
+reportlab
+ultralytics
